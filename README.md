@@ -1,6 +1,6 @@
 <p align="center"><b>Hi👋! I'm Piotrek, an ambitious Information Technology student👨‍💻. Below u can see my statistics📈.</b></p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadala-p&layout=compact&theme=dark&hide_border=true" height="121"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadala-p&layout=compact&theme=dark" height="121"/>
   <img src="https://streak-stats.demolab.com?user=hadala-p&locale=en&mode=daily&theme=dark&hide_border=true&date_format=j M[ Y]" height="121" alt="streak graph"  />
 </div>
 
