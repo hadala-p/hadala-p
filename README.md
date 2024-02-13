@@ -21,7 +21,7 @@
 **📅 Plans on 2024:**
 - [ ] **Learn Python**
 - [ ] **Learn Kafka**
-- [ ] **Create project with microservice architecture**
+- [X] **Create project with microservice architecture**
 - [ ] **Master Java**
 - [ ] **Master Spring & Hibernate**
 
