@@ -18,13 +18,6 @@
 
 ###
 
-**📅 Plans on 2024:**
-- [ ] **Learn Python**
-- [ ] **Learn Kafka**
-- [X] **Create project with microservice architecture**
-- [ ] **Master Java**
-- [ ] **Master Spring & Hibernate**
-
 :speech_balloon: How to reache me: linkedin.com/in/piotrhadala<br>
 :mortar_board: Information Technology student 5 semester at UKEN in Cracow<br>
 :musical_keyboard: Beginner pianist
